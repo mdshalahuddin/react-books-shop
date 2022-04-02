@@ -28,6 +28,10 @@
     cursor: pointer;
 }
 
+.cart-btn:hover {
+    background-color: #33d9b2;
+}
+
 .cart-btn.clear {
     background: #ff0000;
 }
